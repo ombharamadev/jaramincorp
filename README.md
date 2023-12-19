@@ -6,7 +6,7 @@ Established in 2021, Jaram Incorp is dedicated to advancing futuristic vehicle a
 ![N|Solid](preview.png)
 
 ### Last Update
-17 Dec 2023 [20:30+5:30]
+19 Dec 2023 [20:30+5:30]
 
 ### Link
 https://jaramincorporate.tech
